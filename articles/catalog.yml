@@ -2,9 +2,18 @@ PREDEF:
   - preface.re
 
 CHAPS:
-  - article.re
+  - what-is-oshw.re
+  - get-started.re
+  - get-seven-tools.re
+  - try-and-error.re
+  - publish.re
+  - open-process.re
+  - get-certified.re
+  - join-contests.re
+  - distribute.re
 
 APPENDIX:
+  - convince.re
 
 POSTDEF:
   - contributors.re
