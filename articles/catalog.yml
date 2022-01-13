@@ -4,7 +4,6 @@ PREDEF:
 CHAPS:
   - what-is-oshw.re
   - get-started.re
-  - get-seven-tools.re
   - try-and-error.re
   - publish.re
   - open-process.re
@@ -13,6 +12,7 @@ CHAPS:
   - distribute.re
 
 APPENDIX:
+  - get-seven-tools.re
   - convince.re
 
 POSTDEF:

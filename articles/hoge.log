@@ -1,0 +1,120 @@
+modules of host: ["pins/digital","ili9341","preference","ft6206","axp192","mpu6886","time","timer","Resource","mdns","dns","modules","wifi","socket","net","sntp","websocket","base64","logical","crypt","tts-remote","tts-local","http","commodetto/Bitmap","pins/i2c","setup/target","pins/audioout","pins/smbus","commodetto/Poco","commodetto/parseBMP","commodetto/parseRLE","piu/All","piu/Timeline","piu/CombTransition","piu/MC","piu/WipeTransition","setup/piu","dns/parser","dns/serializer","pins/servo","serial","init-network","speeches","mc/config","avatar","balloon","emoticon","marquee-label","rs30x","main","robot","rs30x-driver","sg90-driver"]
+looking at: (0.9306655248931296, 0.07385385569041913, 0.008800317526049983)
+looking at: (0.5014485387833436, -0.24010386258366143, 0.1924948791397025)
+looking at: (0.929357175046894, -0.2833010228079048, 0.13238520642565219)
+/root/Projects/moddable/modules/pins/i2c/i2c.c (182) # Break: (host): write failed!
+/root/Projects/moddable/modules/pins/i2c/i2c.c (182) # Break: (host): write failed!
+Error initializing: Error: (host): write failed
+modules of mod: []
+modules of host: ["pins/digital","ili9341","preference","ft6206","axp192","mpu6886","time","timer","Resource","mdns","dns","modules","wifi","socket","net","sntp","websocket","base64","logical","crypt","tts-remote","tts-local","http","commodetto/Bitmap","pins/i2c","setup/target","pins/audioout","pins/smbus","commodetto/Poco","commodetto/parseBMP","commodetto/parseRLE","piu/All","piu/Timeline","piu/CombTransition","piu/MC","piu/WipeTransition","setup/piu","dns/parser","dns/serializer","pins/servo","serial","init-network","speeches","mc/config","avatar","balloon","emoticon","marquee-label","rs30x","main","robot","rs30x-driver","sg90-driver"]
+looking at: (0.553273306170775, -0.21712944428835285, 0.094671879279118)
+looking at: (0.6134834770144624, -0.120241912948024, 0.19308349277663125)
+looking at: (0.6719498292244854, 0.24950901918334634, 0.10382879709914065)
+looking at: (0.8556551986503543, 0.322627332602308, 0.018996691936393428)
+looking at: (0.5004808197031917, 0.3852910678799476, 0.14805355690607186)
+applyPose: {"yaw":0.6560794107086049,"pitch":0.23024980821038307,"roll":0}
+/root/Projects/moddable/modules/pins/i2c/i2c.c (182) # Break: (host): write failed!
+Error initializing: Error: (host): write failed
+modules of mod: []
+modules of host: ["pins/digital","ili9341","preference","ft6206","axp192","mpu6886","time","timer","Resource","mdns","dns","modules","wifi","socket","net","sntp","websocket","base64","logical","crypt","tts-remote","tts-local","http","commodetto/Bitmap","pins/i2c","setup/target","pins/audioout","pins/smbus","commodetto/Poco","commodetto/parseBMP","commodetto/parseRLE","piu/All","piu/Timeline","piu/CombTransition","piu/MC","piu/WipeTransition","setup/piu","dns/parser","dns/serializer","pins/servo","serial","init-network","speeches","mc/config","avatar","balloon","emoticon","marquee-label","rs30x","main","robot","rs30x-driver","sg90-driver"]
+looking at: (0.677188806905688, 0.23163554850770995, 0.08450007124443075)
+looking at: (0.8900397092313599, -0.10596085910358488, 0.1352906971972647)
+looking at: (0.614518389062611, 0.320332129467356, 0.011017090569021434)
+looking at: (0.4826406247174928, 0.3260097298598871, 0.06486125305408175)
+applyPose: {"yaw":0.5940731462551868,"pitch":0.11090626554719459,"roll":0}
+/root/Projects/moddable/modules/pins/i2c/i2c.c (182) # Break: (host): write failed!
+Error initializing: Error: (host): write failed
+modules of mod: []
+modules of host: ["pins/digital","ili9341","preference","ft6206","axp192","mpu6886","time","timer","Resource","mdns","dns","modules","wifi","socket","net","sntp","websocket","base64","logical","crypt","tts-remote","tts-local","http","commodetto/Bitmap","pins/i2c","setup/target","pins/audioout","pins/smbus","commodetto/Poco","commodetto/parseBMP","commodetto/parseRLE","piu/All","piu/Timeline","piu/CombTransition","piu/MC","piu/WipeTransition","setup/piu","dns/parser","dns/serializer","pins/servo","serial","init-network","speeches","mc/config","avatar","balloon","emoticon","marquee-label","rs30x","main","robot","rs30x-driver","sg90-driver"]
+looking at: (0.5343515767563022, -0.1925140102842157, 0.1343783565504426)
+looking at: (0.8037752369893192, -0.02322396683116068, 0.11812768786170698)
+looking at: (0.992899798367382, -0.22102791346167866, 0.07038429404850682)
+looking at: (0.7759265981092878, 0.331022933481965, -0.0021866473234693137)
+looking at: (0.538890266124832, 0.3421886931970224, 0.034969456455430356)
+applyPose: {"yaw":0.5657492675538685,"pitch":0.05472596628092605,"roll":0}
+/root/Projects/moddable/modules/pins/i2c/i2c.c (182) # Break: (host): write failed!
+/root/Projects/moddable/modules/pins/i2c/i2c.c (182) # Break: (host): write failed!
+Error initializing: Error: (host): write failed
+modules of mod: []
+modules of host: ["pins/digital","ili9341","preference","ft6206","axp192","mpu6886","time","timer","Resource","mdns","dns","modules","wifi","socket","net","sntp","websocket","base64","logical","crypt","tts-remote","tts-local","http","commodetto/Bitmap","pins/i2c","setup/target","pins/audioout","pins/smbus","commodetto/Poco","commodetto/parseBMP","commodetto/parseRLE","piu/All","piu/Timeline","piu/CombTransition","piu/MC","piu/WipeTransition","setup/piu","dns/parser","dns/serializer","pins/servo","serial","init-network","speeches","mc/config","avatar","balloon","emoticon","marquee-label","rs30x","main","robot","rs30x-driver","sg90-driver"]
+looking at: (0.4727105574851648, -0.3829995157157536, 0.192190964522816)
+applyPose: {"yaw":-0.680941615758013,"pitch":0.30597807701179164,"roll":0}
+looking at: (0.5445697857403592, 0.16401259427983605, 0.14794409462435734)
+applyPose: {"yaw":0.2925374392671106,"pitch":0.25448944774199767,"roll":0}
+looking at: (0.8320848507881362, -0.19403720064881194, 0.030208905974917325)
+applyPose: {"yaw":-0.22909979689629928,"pitch":0.03534174973565307,"roll":0}
+looking at: (0.9130645969214534, 0.21928164880240375, 0.08491640625636009)
+/root/Projects/moddable/modules/pins/i2c/i2c.c (182) # Break: (host): write failed!
+/root/Projects/moddable/modules/pins/i2c/i2c.c (182) # Break: (host): write failed!
+Error initializing: Error: (host): write failed
+modules of mod: []
+modules of host: ["pins/digital","ili9341","preference","ft6206","axp192","mpu6886","time","timer","Resource","mdns","dns","modules","wifi","socket","net","sntp","websocket","base64","logical","crypt","tts-remote","tts-local","http","commodetto/Bitmap","pins/i2c","setup/target","pins/audioout","pins/smbus","commodetto/Poco","commodetto/parseBMP","commodetto/parseRLE","piu/All","piu/Timeline","piu/CombTransition","piu/MC","piu/WipeTransition","setup/piu","dns/parser","dns/serializer","pins/servo","serial","init-network","speeches","mc/config","avatar","balloon","emoticon","marquee-label","rs30x","main","robot","rs30x-driver","sg90-driver"]
+looking at: (0.8845042978610155, 0.236299347466859, 0.17098532221535812)
+looking at: (0.7464657109106112, 0.22692563920908737, 0.09248367018822666)
+looking at: (0.9185399216410098, -0.15849822344223463, 0.1929459174566311)
+looking at: (0.8517057749563143, -0.3289047187028697, -0.00848014074109498)
+looking at: (0.920363113964061, -0.33305134622684013, 0.0706134078396981)
+looking at: (0.6833043517273163, 0.26317391224745057, 0.05218905616369775)
+looking at: (0.5367276976669039, 0.12370424618099451, 0.09861765655191095)
+looking at: (0.7975833928206897, 0.3621095249341124, 0.11869871770467115)
+looking at: (0.865042421981935, -0.11084290400865554, 0.1720934114400515)
+looking at: (0.5733021186136878, 0.38501157052465984, 0.12666713059103749)
+applyPose: {"yaw":0.5913884191468306,"pitch":0.18140336827441325,"roll":0}
+looking at: (0.5043673700430354, -0.001973866019857551, 0.19070435194082194)
+applyPose: {"yaw":-0.003913528233656575,"pitch":0.3614884610317941,"roll":0}
+looking at: (0.6631335696818152, -0.10242080253139624, 0.018135650762854064)
+looking at: (0.40472590155078236, 0.2961043111738061, 0.14451019927032996)
+applyPose: {"yaw":0.631631746134043,"pitch":0.28056690699823156,"roll":0}
+looking at: (0.4979105480708905, -0.2950631854811365, 0.0727600817412045)
+applyPose: {"yaw":-0.5349626290798231,"pitch":0.12505849257984034,"roll":0}
+looking at: (0.7939560424988056, -0.3608112750483703, 0.13103249080736018)
+looking at: (0.646892564289014, 0.06030099570292535, 0.1391544730586825)
+applyPose: {"yaw":0.09294780345900301,"pitch":0.21099574318351702,"roll":0}
+/root/Projects/moddable/modules/pins/i2c/i2c.c (182) # Break: (host): write failed!
+Error initializing: Error: (host): write failed
+modules of mod: []
+modules of host: ["pins/digital","ili9341","preference","ft6206","axp192","mpu6886","time","timer","Resource","mdns","dns","modules","wifi","socket","net","sntp","websocket","base64","logical","crypt","tts-remote","tts-local","http","commodetto/Bitmap","pins/i2c","setup/target","pins/audioout","pins/smbus","commodetto/Poco","commodetto/parseBMP","commodetto/parseRLE","piu/All","piu/Timeline","piu/CombTransition","piu/MC","piu/WipeTransition","setup/piu","dns/parser","dns/serializer","pins/servo","serial","init-network","speeches","mc/config","avatar","balloon","emoticon","marquee-label","rs30x","main","robot","rs30x-driver","sg90-driver"]
+/root/Projects/moddable/modules/pins/i2c/i2c.c (182) # Break: (host): write failed!
+Error initializing: Error: (host): write failed
+modules of mod: []
+modules of host: ["pins/digital","ili9341","preference","ft6206","axp192","mpu6886","time","timer","Resource","mdns","dns","modules","wifi","socket","net","sntp","websocket","base64","logical","crypt","tts-remote","tts-local","http","commodetto/Bitmap","pins/i2c","setup/target","pins/audioout","pins/smbus","commodetto/Poco","commodetto/parseBMP","commodetto/parseRLE","piu/All","piu/Timeline","piu/CombTransition","piu/MC","piu/WipeTransition","setup/piu","dns/parser","dns/serializer","pins/servo","serial","init-network","speeches","mc/config","avatar","balloon","emoticon","marquee-label","rs30x","main","robot","rs30x-driver","sg90-driver"]
+looking at: (0.7470794091343599, -0.07074888396792789, 0.014111566826261478)
+looking at: (0.7731141119667129, 0.03790028571102305, 0.1584512763373673)
+/root/Projects/moddable/modules/pins/i2c/i2c.c (182) # Break: (host): write failed!
+Error initializing: Error: (host): write failed
+modules of mod: []
+modules of host: ["pins/digital","ili9341","preference","ft6206","axp192","mpu6886","time","timer","Resource","mdns","dns","modules","wifi","socket","net","sntp","websocket","base64","logical","crypt","tts-remote","tts-local","http","commodetto/Bitmap","pins/i2c","setup/target","pins/audioout","pins/smbus","commodetto/Poco","commodetto/parseBMP","commodetto/parseRLE","piu/All","piu/Timeline","piu/CombTransition","piu/MC","piu/WipeTransition","setup/piu","dns/parser","dns/serializer","pins/servo","serial","init-network","speeches","mc/config","avatar","balloon","emoticon","marquee-label","rs30x","main","robot","rs30x-driver","sg90-driver"]
+/root/Projects/moddable/modules/pins/i2c/i2c.c (182) # Break: (host): write failed!
+Error initializing: Error: (host): write failed
+modules of mod: []
+modules of host: ["pins/digital","ili9341","preference","ft6206","axp192","mpu6886","time","timer","Resource","mdns","dns","modules","wifi","socket","net","sntp","websocket","base64","logical","crypt","tts-remote","tts-local","http","commodetto/Bitmap","pins/i2c","setup/target","pins/audioout","pins/smbus","commodetto/Poco","commodetto/parseBMP","commodetto/parseRLE","piu/All","piu/Timeline","piu/CombTransition","piu/MC","piu/WipeTransition","setup/piu","dns/parser","dns/serializer","pins/servo","serial","init-network","speeches","mc/config","avatar","balloon","emoticon","marquee-label","rs30x","main","robot","rs30x-driver","sg90-driver"]
+looking at: (0.43781837305003274, 0.2530718098983802, 0.02424917051667561)
+applyPose: {"yaw":0.5241078342453456,"pitch":0.04791519733366132,"roll":0}
+looking at: (0.9196374411973258, 0.08083198491503296, 0.13050863879977462)
+looking at: (0.7220915649370504, -0.1894982851551609, 0.15627685640851896)
+applyPose: {"yaw":-0.2566425771964475,"pitch":0.20635438179333118,"roll":0}
+/root/Projects/moddable/modules/pins/i2c/i2c.c (182) # Break: (host): write failed!
+Error initializing: Error: (host): write failed
+modules of mod: []
+modules of host: ["pins/digital","ili9341","preference","ft6206","axp192","mpu6886","time","timer","Resource","mdns","dns","modules","wifi","socket","net","sntp","websocket","base64","logical","crypt","tts-remote","tts-local","http","commodetto/Bitmap","pins/i2c","setup/target","pins/audioout","pins/smbus","commodetto/Poco","commodetto/parseBMP","commodetto/parseRLE","piu/All","piu/Timeline","piu/CombTransition","piu/MC","piu/WipeTransition","setup/piu","dns/parser","dns/serializer","pins/servo","serial","init-network","speeches","mc/config","avatar","balloon","emoticon","marquee-label","rs30x","main","robot","rs30x-driver","sg90-driver"]
+looking at: (0.655507088325803, -0.3871075060188555, 0.1684140026682089)
+applyPose: {"yaw":-0.5334394995625633,"pitch":0.21771924036751944,"roll":0}
+looking at: (0.9733405017231918, -0.3743531325772296, -0.01773375085967913)
+looking at: (0.59809180302501, -0.2466911889255725, 0.18148592580144432)
+looking at: (0.8284847795098287, 0.12703609087668266, 0.1886145912177429)
+applyPose: {"yaw":0.1521503996570867,"pitch":0.22134492661767985,"roll":0}
+looking at: (0.9083727761889745, 0.2627639282175256, 0.16163127095942184)
+looking at: (0.5018856815765346, -0.3435312086584818, 0.08078070478997675)
+applyPose: {"yaw":-0.6002344123052037,"pitch":0.132047214892118,"roll":0}
+looking at: (0.4375800381036429, 0.0811021804067078, -0.008888317097185254)
+applyPose: {"yaw":0.18326291663220523,"pitch":-0.01996963633519769,"roll":0}
+looking at: (0.5345420689169649, -0.29592894592693286, 0.0913062672203654)
+applyPose: {"yaw":-0.5056121694982131,"pitch":0.14834202467054766,"roll":0}
+looking at: (0.9956726787601767, 0.14876656358800056, 0.013570534813583491)
+applyPose: {"yaw":0.14831593460038614,"pitch":0.013479063913860948,"roll":0}
+looking at: (0.980186686846471, 0.01296722246635873, -0.005369968965037254)
+looking at: (0.6090510400033209, 0.3698903288622132, 0.02443721217206615)
+looking at: (0.5823280362371188, 0.12247047063952088, 0.11429561349896146)
+looking at: (0.7561424031285902, -0.3285566879270032, 0.1145993883289861)
+applyPose: {"yaw":-0.4099038920644875,"pitch":0.1381177303532989,"roll":0}
+looking at: (0.9491570841402647, -0.37565539180665636, 0.13602931934782056)
